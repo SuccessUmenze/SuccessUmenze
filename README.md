@@ -1,7 +1,13 @@
-## Hi there 👋
+# Hi, I'm Success!
 
-<!--
-**SuccessUmenze/SuccessUmenze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i am a Data Analyst with an Economics background, focused on building insight-driven projects in Excel, SQL, and Power BI. Passionate about turning data into meaningful business impact.
+
+## Tools I work with
+- Microsoft Excel
+- SQL
+- Power Bi
+## My Projects
+- 
 
 Here are some ideas to get you started:
 
