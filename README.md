@@ -7,9 +7,10 @@ i am a Data Analyst with an Economics background, focused on building insight-dr
 - SQL
 - Power Bi
 ## My Projects
-- [Retail-Sales-and-Customer-Demographic-Analysis] (....)
+- [Retail-Sales-and-Customer-Demographic-Analysis] (https://github.com/SuccessUmenze/Retail-Sales-and-Customer-Demographic-Analysis)
 
 # Currently Learning
+- Tableau
 - Phython
 
 ## Let's Connect
